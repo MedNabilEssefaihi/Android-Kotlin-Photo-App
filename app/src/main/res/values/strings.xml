@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_title">Log in</string>
+    <string name="hint_email">jane@example.com</string>
+    <string name="hint_password">**********</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="undo">back to precious page</string>
+    <string name="warning">In valid</string>
+</resources>
